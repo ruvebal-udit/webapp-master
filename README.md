@@ -20,3 +20,4 @@
 - con media queries
   
 ### NOTAS
+- CUIDADO que la práctica está como index.html a nivel / raíz en el repo, ¿dónde va a estar el trabajo final?
